@@ -3,10 +3,10 @@
 
 ## Integrantes del equipo
 
-**Maria Vidal** y **Claudia Cañada**&nbsp;	```Directoras del Proyecto```
-Marino Pérez &nbsp;&nbsp;&nbsp;&nbsp;```Guru master <3```
-Miguel Ingelmo &nbsp;```Frontend developer```
-Alfonso Cuesta &nbsp;```Backend developer```	 
+**Maria Vidal** y **Claudia Cañada**&nbsp;	```Directoras del Proyecto``` 
+Marino Pérez &nbsp;&nbsp;&nbsp;&nbsp;```Guru master <3``` 
+Miguel Ingelmo &nbsp;```Frontend developer``` 
+Alfonso Cuesta &nbsp;```Backend developer```  	 
 
 
 ## ¿Que es?
